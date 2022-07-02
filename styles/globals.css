@@ -1,5 +1,51 @@
 body {
     padding: 0;
     margin: 0;
-    font-family: "Inter", sans-serif;
+    font-family: "DM Sans", Bold;
+}
+
+#container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+#logo-pic {
+    width: 250px;
+    height: 100pxp;
+}
+
+#profile-pic {
+    width: 300px;
+    height: 200px;
+    border-radius: 0px;
+}
+
+#team-pic {
+    width: 300px;
+    height: 200px;
+    border-radius: 0px;
+}
+
+#cowork-pic {
+    width: 300px;
+    height: 200px;
+    border-radius: 0px;
+}
+
+#florida-pic {
+    width: 300px;
+    height: 200px;
+    border-radius: 0px;
+}
+
+#ballet-pic {
+    width: 300px;
+    height: 200px;
+    border-radius: 0px;
+}
+
+
+#top-section {
+    text-align: center;
+    margin: 64px 0;
 }
